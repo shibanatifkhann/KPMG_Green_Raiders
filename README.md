@@ -1,2 +1,4 @@
 # Product Name
-The product is based on three facet priciple
+Product Development was pursued on two fronts
+1. Frontface Development
+2. Backend Development - Including Database Development
