@@ -1,5 +1,5 @@
 # iGreenify
-Platform helping consumer decision-making in choosing carbon friendly alternatives and ehnacning incentives for businesses to turn carbon neutral.
+Platform helping consumer decision-making in choosing carbon friendly alternatives and enhancing incentives for businesses to turn carbon neutral.
 
 ***
 
