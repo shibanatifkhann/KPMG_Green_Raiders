@@ -7,7 +7,7 @@ Platform helping consumer decision-making in choosing carbon friendly alternativ
 
 Despite growing awareness around ESG, consumers are unable to evaluate real carbon footprints of their daily life products. 
 
-![PwC Report](https://www.pwc.com/us/en/services/consulting/library/consumer-intelligence-series/assets/esg-cis-graphic-01_v3.svg)
+![PwC Report](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/PwC%20Report.png)
 
 ***
 
