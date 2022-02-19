@@ -1,3 +1,4 @@
+![iGreenify](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Logo.png)
 # iGreenify
 Platform helping consumer decision-making in choosing carbon friendly alternatives and enhancing incentives for businesses to turn carbon neutral.
 
