@@ -26,7 +26,9 @@ Through our database development on the processes businesses are utilizing we wo
 3. Consultancy Services: With the help of our AI backed database, we would be helping firm with optimizing their processes towards the path of carbon neutrality.
 
 ***
+## Product - Usage
 
+***
 ## Data Development Process
 
 Our idea is based upon our Data Management Strategy that helps us to deliver effective and yet cost & energy effective solution, we are utilizing the essence of segregation of step-wise database build-up with infused feedback-loop and AI techniques to deliver our value proposition.
