@@ -49,6 +49,8 @@ Example: trained on a set containing words "transportation", "shipment", and "de
 ***
 
 # TEAM
+**Korea Advanced Institute of Science and Technology**
+
 | Name        | Degree           | Major  |
 | ------------- |:-------------:| -----:|
 | Cheyenne Knijnenburg      | Master | Business & Technology Management (BTM) |
