@@ -1,10 +1,9 @@
 ![iGreenify](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Logo.png)
-# iGreenify
-Platform helping consumer decision-making in choosing carbon friendly alternatives and enhancing incentives for businesses to turn carbon neutral.
+## **Platform helping consumer decision-making in choosing carbon friendly alternatives and enhancing incentives for businesses to turn carbon neutral.**
 
 ***
 
-## Problem
+# Problem
 
 Despite growing awareness around ESG, consumers are unable to evaluate real carbon footprints of their daily life products. 
 
@@ -12,7 +11,7 @@ Despite growing awareness around ESG, consumers are unable to evaluate real carb
 
 ***
 
-## Our Solution
+# Our Solution
 
 With just scanning the product's barcode, you'll be able to see a carbon rating (out of 100) and list of alternative product with better carbon rating. Moreover, you'll be awarded Green Coins (blockchain based coin) based on your purchase decision, which is an financial product reaping it's benefit when we perform an ICO (Initial Coin Offering).
 
@@ -27,10 +26,10 @@ Through our database development on the processes businesses are utilizing we wo
 3. Consultancy Services: With the help of our AI backed database, we would be helping firm with optimizing their processes towards the path of carbon neutrality.
 
 ***
-## Product - Usage
+# Product - Usage
 
 ***
-## Data Development Process
+# Data Development Process
 
 Our idea is based upon our Data Management Strategy that helps us to deliver effective and yet cost & energy effective solution, we are utilizing the essence of segregation of step-wise database build-up with infused feedback-loop and AI techniques to deliver our value proposition.
 
@@ -49,7 +48,7 @@ Example: trained on a set containing words "transportation", "shipment", and "de
 
 ***
 
-## TEAM
+# TEAM
 | Name        | Degree           | Major  |
 | ------------- |:-------------:| -----:|
 | Cheyenne Knijnenburg      | Master | Business & Technology Management (BTM) |
