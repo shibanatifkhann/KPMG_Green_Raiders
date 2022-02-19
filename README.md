@@ -5,7 +5,7 @@
 
 # Problem
 
-Despite growing awareness around ESG, consumers are unable to evaluate real carbon footprints of their daily life products. 
+## **Despite growing awareness around ESG, consumers are unable to evaluate real carbon footprints of their daily life products.**
 
 ![PwC Report](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/PwC%20Report.png)
 
