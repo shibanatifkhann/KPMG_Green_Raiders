@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86324876494",
+    "project_id": "green-raiders-f3b54",
+    "storage_bucket": "green-raiders-f3b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86324876494:android:f9551b5da934aca90eec9f",
+        "android_client_info": {
+          "package_name": "com.example.green_raiders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86324876494-2hnguphjuquvuiaugeonp3j1i3gvb6o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcfix7Bq44Yu_VpbKUpHkIxmZis0g_2Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86324876494-2hnguphjuquvuiaugeonp3j1i3gvb6o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
