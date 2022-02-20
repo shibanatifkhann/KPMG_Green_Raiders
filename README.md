@@ -28,6 +28,11 @@ Through our database development on the processes businesses are utilizing we wo
 ***
 # Product - Usage
 
+1. Sign Up
+2. Sign In
+3. Scan Barcode
+4. Check Alternative Product List
+
 ***
 # Data Development Process
 
