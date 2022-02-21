@@ -35,11 +35,14 @@ iGreenify mobile application makes use of Firebase as a backend for user authent
 All registered information is stored in the Firebase database that communicates to the Flutter mobile application in real time. The authentication flow guarantees safe 
 information storage, fast responses, and password recovery.
 ![SignInPage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/SignIn.png)
+
 ## Scan Barcode
 As soon as the user is identified, they are directed to the main page of the application. At the central page, the user is prompted to scan the barcode of a product they are about to purchase. The page contains only one button responsible for bringing up the fast and easy-to-use barcode scanner.
 ![BarcodePage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Scan.png)
+
 ## Check Alternative Product List
-As soon as the barcode is scanned, the barcode number retrieved is checked for existence in the main application database. If such number exists, the calculated carbon rating is displayed next to the product's name. The user can then see the names of similar products from the same category and their respective calculated carbon ratings. Based on them, the user can opt for "greener" options, which would result in the public's support of carbon-aware manufacturing businesses. 
+As soon as the barcode is scanned, the barcode number retrieved is checked for existence in the main application database. If such number exists, the calculated carbon rating is displayed next to the product's name. The user can then see the names of similar products from the same category and their respective calculated carbon ratings. Based on them, the user can opt for "greener" options, which would result in the public's support of carbon-aware manufacturing businesses.
+
 ![BarcodeRes](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Result.png)
 
 ***
