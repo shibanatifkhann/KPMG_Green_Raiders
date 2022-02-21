@@ -41,6 +41,8 @@ As soon as the user is identified, they are directed to the main page of the app
 
 ![BarcodePage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Scan.png)
 
+![BarcodePage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Process.png)
+
 ## Check Alternative Product List
 As soon as the barcode is scanned, the barcode number retrieved is checked for existence in the main application database. If such number exists, the calculated carbon rating is displayed next to the product's name. The user can then see the names of similar products from the same category and their respective calculated carbon ratings. Based on them, the user can opt for "greener" options, which would result in the public's support of carbon-aware manufacturing businesses.
 
