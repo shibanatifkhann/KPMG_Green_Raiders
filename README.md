@@ -28,8 +28,10 @@ Through our database development on the processes businesses are utilizing we wo
 ***
 # Product - Usage
 
-## Sign Up
+## Welcome and Sign Up
+User is welcomed with a splash screen of pages that give a general overview of the process they are about to proceed with.
 iGreenify mobile application makes use of Firebase as a backend for user authentication. After proceeding smoothly with the registration process, user is then directed to the main application screen.
+
 
 ## Sign In
 All registered information is stored in the Firebase database that communicates to the Flutter mobile application in real time. The authentication flow guarantees safe 
