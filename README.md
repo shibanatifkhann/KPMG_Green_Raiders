@@ -38,6 +38,7 @@ information storage, fast responses, and password recovery.
 
 ## Scan Barcode
 As soon as the user is identified, they are directed to the main page of the application. At the central page, the user is prompted to scan the barcode of a product they are about to purchase. The page contains only one button responsible for bringing up the fast and easy-to-use barcode scanner.
+
 ![BarcodePage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/Scan.png)
 
 ## Check Alternative Product List
