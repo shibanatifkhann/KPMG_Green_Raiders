@@ -29,9 +29,11 @@ Through our database development on the processes businesses are utilizing we wo
 # Product - Usage
 
 1. Sign Up
+iGreenify mobile application makes use of Firebase as a backend for user authentication. After proceeding smoothly with the registration process, user is then directed to the main application screen.
 2. Sign In
-3. Scan Barcode
-4. Check Alternative Product List
+All registered information is stored in the Firebase database that communicates to the Flutter mobile application in real time. The authentication flow guarantees safe information storage, fast responses, and password recovery.
+4. Scan Barcode
+5. Check Alternative Product List
 
 ***
 # Data Development Process
