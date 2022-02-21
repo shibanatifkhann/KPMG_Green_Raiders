@@ -38,6 +38,7 @@ iGreenify mobile application makes use of Firebase as a backend for user authent
 ## Sign In
 All registered information is stored in the Firebase database that communicates to the Flutter mobile application in real time. The authentication flow guarantees safe 
 information storage, fast responses, and password recovery.
+
 ![SignInPage](https://github.com/shibanatifkhann/KPMG_Green_Raiders/blob/main/SignIn.png)
 
 ## Scan Barcode
